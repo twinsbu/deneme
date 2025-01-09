@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\BUSE\kimlikDogrulamaOrnek\kimlikDogrulamaOrnek\bin\Debug\kimlikDogrulamaOrnek.exe.config
+C:\Users\Admin\Desktop\BUSE\kimlikDogrulamaOrnek\kimlikDogrulamaOrnek\bin\Debug\kimlikDogrulamaOrnek.exe
+C:\Users\Admin\Desktop\BUSE\kimlikDogrulamaOrnek\kimlikDogrulamaOrnek\bin\Debug\kimlikDogrulamaOrnek.pdb
+C:\Users\Admin\Desktop\BUSE\kimlikDogrulamaOrnek\kimlikDogrulamaOrnek\obj\Debug\kimlikDogrulamaOrnek.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\BUSE\kimlikDogrulamaOrnek\kimlikDogrulamaOrnek\obj\Debug\kimlikDogrulamaOrnek.Form1.resources
+C:\Users\Admin\Desktop\BUSE\kimlikDogrulamaOrnek\kimlikDogrulamaOrnek\obj\Debug\kimlikDogrulamaOrnek.Properties.Resources.resources
+C:\Users\Admin\Desktop\BUSE\kimlikDogrulamaOrnek\kimlikDogrulamaOrnek\obj\Debug\kimlikDogrulamaOrnek.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BUSE\kimlikDogrulamaOrnek\kimlikDogrulamaOrnek\obj\Debug\kimlikDogrulamaOrnek.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BUSE\kimlikDogrulamaOrnek\kimlikDogrulamaOrnek\obj\Debug\kimlikDogrulamaOrnek.exe
+C:\Users\Admin\Desktop\BUSE\kimlikDogrulamaOrnek\kimlikDogrulamaOrnek\obj\Debug\kimlikDogrulamaOrnek.pdb
+C:\Users\Admin\Desktop\BUSE\kimlikDogrulamaOrnek\kimlikDogrulamaOrnek\obj\Debug\kimlikDogrulamaOrnek.Form2.resources
